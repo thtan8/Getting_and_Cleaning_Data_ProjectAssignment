@@ -1,3 +1,5 @@
+Teng How
+started 4th April 2017, 09:00AM (GMT+8)
 
 # Getting_and_Cleaning_Data_ProjectAssignment
 Project assignment for Data Science Coursera (Getting and Cleaning Data)
@@ -6,7 +8,7 @@ The goal is to prepare tidy data that can be used for later analysis.
 
 ### Output: To tidy up the input files into "Human Activity Recognition Using Smartphones Dataset".
 
-### Data used for the project: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+Data used for the project: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 Consists of the following files to be used to construct the data set:
 1. Features.txt
 2. Activity_labels.txt
